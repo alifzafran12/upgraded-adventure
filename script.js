@@ -526,7 +526,7 @@ function rand(max) {
     };
     sprite = new Image();
     sprite.src =
-      "./imgP.png" +
+      "./eevee.png" +
       "?" +
       new Date().getTime();
     sprite.setAttribute("crossOrigin", " ");
